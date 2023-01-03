@@ -1,0 +1,10 @@
+body{
+  margin-left: 30px;
+}
+.writeInp:focus{
+  outline: 1px solid blue;
+  
+}
+.quote{
+  background-color: bisque;
+}
